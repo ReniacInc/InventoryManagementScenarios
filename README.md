@@ -15,10 +15,7 @@ This test creates about 90GB of data on a database node. When queries are accele
 
 Click **[here](https://www.reniac.com/wp-content/uploads/2021/03/inv_mgmt.tar "Download the tar file")** to download the required files.
 
-**Contact
-
-**rENIAC Support - for technical help or discounts on pricing
-
+**Contact rENIAC Support - for technical help
 support@reniac.com
 
 
