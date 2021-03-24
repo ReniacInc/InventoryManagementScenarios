@@ -13,6 +13,8 @@ This is a read-heavy workload, with reads accounting for about 96% of the transa
 
 This test creates about 90GB of data on a database node. When queries are accelerated by rENIAC Row Cache, the throughput goes up to almost 7x the throughput vs baseline (i.e. when rENIAC Row Cache is not enabled). The latency also goes down significantly - by about 7x for mean to about 15x for 95th percentile. 
 
+Click here to download the required files.
+
 **Contact
 
 **rENIAC Support - for technical help or discounts on pricing
